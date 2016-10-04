@@ -17,7 +17,7 @@
    ms.author="carlrab"/>
 
 
-# CSV から Azure SQL Data Warehouse へのデータの読み込み (フラット ファイル)
+# CSV から Azure SQL Database へのデータの読み込み (フラット ファイル)
 
 bcp コマンドライン ユーティリティを使用して、CSV ファイルから Azure SQL Database にデータをインポートできます。
 
